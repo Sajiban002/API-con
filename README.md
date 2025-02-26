@@ -2,7 +2,7 @@
 
 ## Описание проекта
 Этот проект на **React**, которое включает:  
-- **API-запрос** к [JSONPlaceholder](https://jsonplaceholder.typicode.com/) для получения списка пользователей.  
+- **API-запрос** к [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) для получения списка пользователей.  
 - **To-Do List** для добавления и управления задачами.  
 
 ### API - Список пользователей  
