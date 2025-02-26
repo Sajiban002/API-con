@@ -1,0 +1,73 @@
+.app {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  display: flex;
+}
+
+.api {
+  flex: 1;
+  margin-right: 80px;
+}
+
+.load {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.lists {
+  list-style-type: none;
+}
+
+.items {
+  padding: 8px 16px;
+  border-bottom: 1px solid #ddd;
+  background-color: #f9f9f9;
+  margin-bottom: 5px;
+}
+
+.todolist {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.todolist h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.todolist input {
+  width: 70%;
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.todolist button {
+  padding: 8px 15px;
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.todolist ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
